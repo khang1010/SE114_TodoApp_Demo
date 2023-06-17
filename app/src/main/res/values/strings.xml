@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toDoList</string>
+    <string-array name="status">
+        <item>Done</item>
+        <item>Undone</item>
+    </string-array>
+</resources>
